@@ -1,0 +1,40 @@
+_repo: John-Ermine-of-the-Yellowstone_41177
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41177-h/images/th_cover.jpg
+creator:
+  author:
+    agent_name: Remington, Frederic
+    alias: Remington, Frederic Sackrider
+    birthdate: 1861
+    deathdate: 1909
+    gutenberg_agent_id: '2565'
+    url: http://www.gutenberg.org/2009/agents/2565
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Remington
+description: 'John Ermine of the Yellowstone (1902) is Frederic Remington''s greatest
+  literary achievement. A tragic and realistic story about race, identity, love, and
+  the frontier is still a favorite of American readers today.<P style=MARGIN: 0in
+  0in 0pt> <P style=MARGIN: 0in 0in 0pt>John Ermine, known to his Crow tribe as White
+  Weasel, must choose between the tribe that became his family and his white heritage.
+  Although John sees himself as Native American at heart, he chooses to side with
+  his white forbears and serve in the U.S. Army. When the commander''s daughter, Katherine
+  Searles, comes to base camp he attempts to connect with and woo her. His failure
+  poses the question, can women like Katherine and men like John live in the same
+  space? Or is this, tragically, The End of All Things?'
+gutenberg_issued: '2012-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian captivities -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Crow Indians -- Fiction'
+- !lcsh 'Yellowstone River Valley -- Fiction'
+title: John Ermine of the Yellowstone
+url: http://www.gutenberg.org/ebooks/41177
